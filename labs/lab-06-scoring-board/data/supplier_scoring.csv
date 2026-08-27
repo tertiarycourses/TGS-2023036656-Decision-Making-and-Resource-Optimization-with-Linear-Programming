@@ -1,0 +1,6 @@
+Criterion,Weight,Supplier_A,Supplier_B,Supplier_C
+Price,3,3,5,4
+Quality,3,5,3,4
+Lead_time,2,3,4,2
+Reliability,2,4,3,5
+Support,1,4,3,2

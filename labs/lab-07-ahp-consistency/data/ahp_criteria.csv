@@ -1,0 +1,5 @@
+Criterion,Cost,Quality,Delivery,Flexibility
+Cost,1,3,2,2
+Quality,1/3,1,1/4,1/4
+Delivery,1/2,4,1,1/2
+Flexibility,1/2,4,2,1

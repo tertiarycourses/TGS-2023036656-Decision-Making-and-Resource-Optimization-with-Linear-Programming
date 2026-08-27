@@ -1,0 +1,5 @@
+Scenario,Baking_powder_kg,Chocolate_profit,Note
+Base,10,3,Optimal Z = 162.50
+Less_powder,8,3,Binding resource reduced
+More_powder,12,3,Binding resource increased
+Price_drop,10,2.5,Chocolate profit cut

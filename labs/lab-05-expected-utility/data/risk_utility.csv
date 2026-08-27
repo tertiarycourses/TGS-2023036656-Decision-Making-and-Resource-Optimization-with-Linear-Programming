@@ -1,0 +1,3 @@
+Project,Outcome_low,Prob_low,Outcome_high,Prob_high
+Project_A_Safe,40,0.5,60,0.5
+Project_B_Risky,10,0.5,90,0.5

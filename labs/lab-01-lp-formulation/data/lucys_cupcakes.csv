@@ -1,0 +1,5 @@
+Item,Vanilla_X1,Chocolate_X2,Available,Unit
+Profit_per_unit,2,3,,$
+Baking_powder,0.1,0.2,10,kg
+Man_hours,0.05,0.1,10,hour
+Demand_cap,25,60,,units

@@ -1,0 +1,21 @@
+.DS_Store
+.env
+.env.*
+.claude/
+.codex/
+assessment/
+reference/
+QA-*.md
+**/archive/
+**/__pycache__/
+*.pyc
+
+# Internal build and QA metadata
+courseware/slide_map.json
+courseware/technical_anchors.md
+LG-*.md
+
+# Trainer-private assessment material must never enter the public repository
+**/Answer to *.docx
+**/Answers to *.docx
+**/*Answer Key*

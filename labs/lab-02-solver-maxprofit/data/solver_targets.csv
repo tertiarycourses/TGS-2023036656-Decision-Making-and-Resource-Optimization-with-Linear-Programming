@@ -1,0 +1,5 @@
+Cell,Role,Value_or_rule
+E6,Objective (Max),"=SUMPRODUCT(C6:D6,C4:D4)"
+C4:D4,Changing cells,"X1, X2"
+E9:E10,Resource LHS,<= G9:G10
+E11:E12,Demand LHS,<= G11:G12
